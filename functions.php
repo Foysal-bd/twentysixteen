@@ -1,5 +1,4 @@
 <?php
-ghjg
 /**
  * Twenty Sixteen functions and definitions
  *
